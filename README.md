@@ -30,3 +30,7 @@ You can also add it to your own server [here!](https://discord.com/api/oauth2/au
 
 # Ideas
 If you want to i'd be very happy if you could come with some ideas for the bot. You can give me your ideas on Discord Parmo#1619 or on my [Discord server](https://discord.gg/EsSZYNhZgs)
+
+```js
+console.log("hahahah");
+```
