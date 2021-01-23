@@ -13,9 +13,9 @@ Extra commands: `crops`, `kitty`, `tiie`
 
 -Use compliment to give yourself a compliment 
 
--Use google to search the internet without having to do it yourself (For example if u wanna send someone a google link u dont have to search it yourself etc) 
+-Use `google` to search the internet without having to do it yourself (For example if u wanna send someone a google link u dont have to search it yourself etc) 
 
--Use help to get all the commands along with a description you can also do $help command to get info about a specific command 
+-Use `help` to get all the commands along with a description you can also do $help command to get info about a specific command 
 
 -`howgay` will give a random percentage of how gay a given user is (this is not meant to be offensive it's all just for fun) 
 
