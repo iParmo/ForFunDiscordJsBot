@@ -5,12 +5,14 @@ module.exports = {
 	name: 'ic',
 	description: 'This command can only be used by the owner of the bot.',
 	execute(message, args) {
+		if (message.author.id !== '712227220294205440') return message.reply("only my owner can use this command!")
+		
 		fs.readFile('ideas.txt', 'utf8', function(err, contents) {
 			const embed = new Discord.MessageEmbed()
 				.setTitle('Idea Check')
 				.setDescription(`\`\`\`${contents}\`\`\``)
 				.setTimestamp()
-				.setColor(0x009DFF)
+				.setColor('BLUE')
 			message.channel.send(embed)
 		})
 	}
